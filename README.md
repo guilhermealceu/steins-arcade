@@ -3,6 +3,8 @@
 O **Steins;Arcade** é um hub local estilo *Big Picture* feito em **Electron + HTML/CSS/JS**, pensado pra ser usado **no controle**.  
 Ele unifica sua biblioteca (Steam + jogos locais) em uma interface moderna, rápida e bonita — perfeita pra PC na TV.
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7c5bd87e-7bfd-44e9-9bf1-1b9c0edf757a" />
+
 ## 🔥 Destaques
 - **Interface 100% “controller friendly”**
 - **Galeria com cards**, foco no jogo (UI minimalista)
