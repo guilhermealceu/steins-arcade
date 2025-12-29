@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.1",
-  "minRequired": "1.0.1",
+  "latest": "1.0.0",
+  "minRequired": "1.0.0",
   "graceDays": 7,
   "message": "Atualização obrigatória para continuar usando o Steins;Arcade.",
   "releaseUrl": "https://github.com/guilhermealceu/steins-arcade/releases"
